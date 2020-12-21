@@ -1,0 +1,59 @@
+{
+  "name": "QuranBook",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "start": "react-native start",
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "@expo/vector-icons": "^12.0.2",
+    "@fortawesome/fontawesome-svg-core": "^1.2.32",
+    "@fortawesome/free-solid-svg-icons": "^5.15.1",
+    "@fortawesome/react-native-fontawesome": "^0.2.6",
+    "@react-native-community/async-storage": "^1.12.1",
+    "@react-native-community/masked-view": "^0.1.10",
+    "@react-navigation/native": "^5.8.10",
+    "@react-navigation/stack": "^5.12.8",
+    "@use-expo/font": "^2.0.0",
+    "d3-shape": "^2.0.0",
+    "expo-app-loading": "^1.0.1",
+    "expo-font": "^8.4.0",
+    "expo-keep-awake": "^8.4.0",
+    "expo-screen-orientation": "^2.1.0",
+    "react": "16.13.1",
+    "react-native": "0.63.4",
+    "react-native-exit-app": "^1.1.0",
+    "react-native-gesture-handler": "^1.9.0",
+    "react-native-htmlview": "^0.16.0",
+    "react-native-modalbox": "^2.0.2",
+    "react-native-pell-rich-editor": "^1.5.3",
+    "react-native-reanimated": "2.0.0-alpha.9.2",
+    "react-native-safe-area-context": "^3.1.9",
+    "react-native-screens": "^2.16.1",
+    "react-native-splash-screen": "^3.2.0",
+    "react-native-svg": "^12.1.0",
+    "react-native-unimodules": "^0.12.0",
+    "react-native-webview": "^11.0.2",
+    "react-redux": "^7.2.2",
+    "recyclerlistview": "^3.0.0",
+    "redux": "^4.0.5",
+    "redux-persist": "^6.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.4",
+    "@babel/runtime": "^7.8.4",
+    "@react-native-community/eslint-config": "^1.1.0",
+    "babel-jest": "^25.1.0",
+    "eslint": "^6.5.1",
+    "jest": "^25.1.0",
+    "metro-react-native-babel-preset": "^0.59.0",
+    "react-test-renderer": "16.13.1"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

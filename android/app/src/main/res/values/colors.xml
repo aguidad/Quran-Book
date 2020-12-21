@@ -1,0 +1,4 @@
+<resources>
+ <color name="splashscreen_background">#FEF4D6</color> <!-- #AARRGGBB or #RRGGBB format -->
+  <color name="iconBackground">#F5F5F7</color>
+</resources>
